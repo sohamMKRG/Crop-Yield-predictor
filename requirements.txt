@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+streamlit
+shap
+python-dotenv
+torch      # optional; if you can't install, AE steps will fall back to sklearn encoder

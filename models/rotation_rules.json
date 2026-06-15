@@ -1,0 +1,26 @@
+{
+  "Rice": [
+    "ChickPea",
+    "Lentil",
+    "Mustard"
+  ],
+  "Wheat": [
+    "Soybean",
+    "ChickPea",
+    "Mustard"
+  ],
+  "Maize": [
+    "Groundnut",
+    "Soyabean",
+    "Fodder"
+  ],
+  "Cotton": [
+    "ChickPea",
+    "Mustard",
+    "Soyabean"
+  ],
+  "Sugarcane": [
+    "Legumes",
+    "Vegetables"
+  ]
+}
