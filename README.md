@@ -22,6 +22,7 @@ The **Smart Crop Advisory System** helps farmers and agricultural stakeholders m
 - Suggesting **crop rotation plans**
 - Applying **state and climate-specific validation rules**
 
+
 The system combines **Machine Learning** with **Agronomic Rule-Based Intelligence** to provide realistic and practical recommendations.
 
 ---
