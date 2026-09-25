@@ -25,6 +25,7 @@ The **Smart Crop Advisory System** helps farmers and agricultural stakeholders m
 
 The system combines **Machine Learning** with **Agronomic Rule-Based Intelligence** to provide realistic and practical recommendations.
 
+
 ---
 
 ## 🚀 Features
